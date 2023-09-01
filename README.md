@@ -4,10 +4,6 @@
 First-year student studying Computer Science at the University of Illinois Urbana-Champaign. Interested in cybersecurity with a focus on digital forensics, paired with a love for data analytics. 
 </p>
 
-
-<h2> 📚 Classes </h2>
-
-  *  [SEC275: Foundations: Computers, Technology, and Security](https://www.sans.org/cyber-security-courses/foundations/)  -  [Certificate of Completion](https://github.com/evanlin23/evanlin23/blob/e06293ee818cdb3d7e1f45c8ffb722861513d1f4/images/certificate.pdf)
 <h2> 🖥️ Projects </h2>
 
   *  [Computer Networking Practice Documentation](https://github.com/evanlin23/Cisco-Packet-Tracer)
@@ -15,6 +11,11 @@ First-year student studying Computer Science at the University of Illinois Urban
 <h2> 👨‍💻 Cybersecurity Certifications </h2>
 
   *  [GIAC Foundational Cybersecurity Technologies](https://www.credly.com/badges/baf18ba1-acc1-4a9a-8de0-e92e626df1b0/public_url) | <i> Global Information Assurance Certification </i> 
+
+<h2> 📚 Classes </h2>
+
+  *  [SEC275: Foundations: Computers, Technology, and Security](https://www.sans.org/cyber-security-courses/foundations/)  -  [Certificate of Completion](https://github.com/evanlin23/evanlin23/blob/e06293ee818cdb3d7e1f45c8ffb722861513d1f4/images/certificate.pdf)
+
 <h2> 🤳 Connect with me:</h2>
 
   *  [Linkedin](https://www.linkedin.com/in/evanlin366/)
