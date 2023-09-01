@@ -7,7 +7,7 @@ First-year student studying Computer Science at the University of Illinois Urban
 
 <h2> 📚 Classes </h2>
 
-  *  [SEC275: Foundations: Computers, Technology, and Security](https://www.sans.org/cyber-security-courses/foundations/)  -  [Certificate of Completion]()
+  *  [SEC275: Foundations: Computers, Technology, and Security](https://www.sans.org/cyber-security-courses/foundations/)  -  [Certificate of Completion](https://github.com/evanlin23/evanlin23/blob/e06293ee818cdb3d7e1f45c8ffb722861513d1f4/images/certificate.pdf)
 <h2> 🖥️ Projects </h2>
 
   *  [Computer Networking Practice Documentation](https://github.com/evanlin23/Cisco-Packet-Tracer)
