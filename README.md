@@ -17,7 +17,6 @@
 <h2> 🤳 Connect with me:</h2>
 
   *  [Linkedin](https://www.linkedin.com/in/evanlin366/)
-  *  [Instagram](https://www.instagram.com/evanlin667/)
 
 <!--
 **evanlin23/evanlin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
