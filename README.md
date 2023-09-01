@@ -12,7 +12,7 @@
     
      *  Used python to design a tool used to create a formatted index for textbooks
    
-  *  [Video Project on Hilbert Spaces and Color Perception](https://www.youtube.com/watch?v=vtaNnV8bPyc)
+  *  [Hilbert Spaces and their Applications in Color Perception (video)](https://www.youtube.com/watch?v=vtaNnV8bPyc)
 
      *  Created animations using manim, [a community maintained Python library for creating mathematical animations](https://www.manim.community/)
      *  Group members: Evan Lin, Alex Lin, Josh Song, Eric Tsui
