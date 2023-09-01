@@ -26,7 +26,6 @@
 
  *  [SEC275: Foundations: Computers, Technology, and Security](https://www.sans.org/cyber-security-courses/foundations/)
    | <i> [Certificate](https://github.com/evanlin23/evanlin23/blob/e06293ee818cdb3d7e1f45c8ffb722861513d1f4/images/certificate.pdf) </i>
-   | <i> [SANS Alumni Badge](https://api.badgr.io/public/assertions/L5qtDlH4RoeeYatU8sSp3w) </i>
      *  Earned access to course through the [CyberStart America](https://www.cyberstartamerica.org/) program
      *  Topics covered: Computer Components & Concepts | Operating Systems, Containers, & Virtualization | Linux | Networking Fundamentals | Practical Programming in Python and C | Windows Foundations | Advanced Computer Hardware | Encryption | Forensics | Reconnaissance, Exploitation, and Privilege Escalation | Network & Computer Infiltration
  
