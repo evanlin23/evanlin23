@@ -8,10 +8,16 @@
 
 <h2> 👨‍💻 Cybersecurity Courses and Certifications</h2>
 
-  *  [GIAC Foundational Cybersecurity Technologies](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/) | <i> [Certificate](https://www.credly.com/badges/baf18ba1-acc1-4a9a-8de0-e92e626df1b0/public_url) </i>
-     *  Topics: Computer Hardware Fundamentals | Computer Logic | Computer Networking | Cyber Security Concepts | Exploitation Fundamentals | Forensics Fundamentals | Operating System | Fundamentals | Programming Fundamentals
- *  [SEC275: Foundations: Computers, Technology, and Security](https://www.sans.org/cyber-security-courses/foundations/) | <i> [Certificate](https://github.com/evanlin23/evanlin23/blob/e06293ee818cdb3d7e1f45c8ffb722861513d1f4/images/certificate.pdf) </i>
-     *  Topics: Computer Components & Concepts | Operating Systems, Containers, & Virtualization | Linux | Networking Fundamentals | Practical Programming in Python and C | Windows Foundations | Advanced Computer Hardware | Encryption | Forensics | Reconnaissance, Exploitation, and Privilege Escalation | Network & Computer Infiltration
+  *  [GIAC Foundational Cybersecurity Technologies (GFACT)](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/)
+   | <i> [Certificate](https://www.credly.com/badges/baf18ba1-acc1-4a9a-8de0-e92e626df1b0/public_url) </i>
+     *  Earned one attempt at the GFACT certification through the The National Cyber Scholarship Foundation as an National Cyber Scholar
+     *  Topics covered: Computer Hardware Fundamentals | Computer Logic | Computer Networking | Cyber Security Concepts | Exploitation Fundamentals | Forensics Fundamentals | Operating System | Fundamentals | Programming Fundamentals
+
+ *  [SEC275: Foundations: Computers, Technology, and Security](https://www.sans.org/cyber-security-courses/foundations/)
+   | <i> [Certificate](https://github.com/evanlin23/evanlin23/blob/e06293ee818cdb3d7e1f45c8ffb722861513d1f4/images/certificate.pdf) </i>
+   | <i> [SANS Alumni Badge](https://badgr.com/backpack/badges/64d714050dfc2a19ea0c0976) </i>
+     *  Earned access to course through the CyberStart America program
+     *  Topics covered: Computer Components & Concepts | Operating Systems, Containers, & Virtualization | Linux | Networking Fundamentals | Practical Programming in Python and C | Windows Foundations | Advanced Computer Hardware | Encryption | Forensics | Reconnaissance, Exploitation, and Privilege Escalation | Network & Computer Infiltration
  
 <h2> 🤳 Connect with me:</h2>
 
