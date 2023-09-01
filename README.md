@@ -8,7 +8,7 @@
     
      *  Using Cisco Packet Tracer to create and simulate computer networks
        
-  *  [Index Maker](https://github.com/evanlin23/Index-Maker)
+  *  [Index Maker for Textbooks](https://github.com/evanlin23/Index-Maker)
     
      *  Used python to design a tool used to create a formatted index given a spreadsheet
 
