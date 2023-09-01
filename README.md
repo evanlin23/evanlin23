@@ -6,7 +6,12 @@
 
   *  [Computer Networking Practice Documentation](https://github.com/evanlin23/Cisco-Packet-Tracer)
     
-     * Using Cisco Packet Tracer to create and simulate computer networks
+     *  Using Cisco Packet Tracer to create and simulate computer networks
+       
+  *  [Index Maker](https://github.com/evanlin23/Index-Maker)
+    
+     *  Used python to design tool to create a formatted index from a spreadsheet
+     *  Personally used when indexing books for SANS courses 
 
 <h2> 👨‍💻 Cybersecurity Courses and Certifications</h2>
 
