@@ -5,6 +5,7 @@
 <h2> 🖥️ Projects </h2>
 
   *  [Computer Networking Practice Documentation](https://github.com/evanlin23/Cisco-Packet-Tracer)
+     * Using Cisco Packet Tracer to create and simulate computer networks
 
 <h2> 👨‍💻 Cybersecurity Courses and Certifications</h2>
 
