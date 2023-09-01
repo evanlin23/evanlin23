@@ -9,6 +9,7 @@
 <h2> 👨‍💻 Cybersecurity Certifications </h2>
 
   *  [GIAC Foundational Cybersecurity Technologies](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/) | <i> [Certificate](https://www.credly.com/badges/baf18ba1-acc1-4a9a-8de0-e92e626df1b0/public_url) </i>
+     *  Skills: Computer Hardware Fundamentals | Computer Logic | Computer Networking | Cyber Security Concepts | Exploitation Fundamentals | Forensics Fundamentals | Operating System | Fundamentals | Programming Fundamentals
 
 <h2> 📚 Classes </h2>
 
