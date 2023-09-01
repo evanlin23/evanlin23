@@ -11,7 +11,7 @@
 <h2> 👨‍💻 Cybersecurity Courses and Certifications</h2>
 
   *  [GIAC Foundational Cybersecurity Technologies (GFACT)](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/)
-   | <i> [Certificate](https://www.credly.com/badges/baf18ba1-acc1-4a9a-8de0-e92e626df1b0/public_url) </i>
+   | <i> [Certification](https://www.credly.com/badges/baf18ba1-acc1-4a9a-8de0-e92e626df1b0/public_url) </i>
      *  Earned one attempt at the GFACT certification through the [The National Cyber Scholarship Foundation](https://www.nationalcyberscholarship.org/) as a [National Cyber Scholar](https://www.nationalcyberscholarship.org/winners-2023)
      *  Topics covered: Computer Hardware Fundamentals | Computer Logic | Computer Networking | Cyber Security Concepts | Exploitation Fundamentals | Forensics Fundamentals | Operating System | Fundamentals | Programming Fundamentals
 
