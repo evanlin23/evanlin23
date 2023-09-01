@@ -11,6 +11,11 @@
   *  [Index Maker for Textbooks](https://github.com/evanlin23/Index-Maker)
     
      *  Used python to design a tool used to create a formatted index given a spreadsheet
+   
+  *  [Video Project on Hilbert Spaces and Color Perception](https://www.youtube.com/watch?v=vtaNnV8bPyc)
+
+     *  Created animations using manim and edited project in iMovie
+     *  Group members: Evan Lin, Alex Lin, Josh Song, Eric Tsui
 
 <h2> 👨‍💻 Cybersecurity Courses and Certifications</h2>
 
