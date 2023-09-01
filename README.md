@@ -6,15 +6,13 @@
 
   *  [Computer Networking Practice Documentation](https://github.com/evanlin23/Cisco-Packet-Tracer)
 
-<h2> 👨‍💻 Cybersecurity Certifications </h2>
+<h2> 👨‍💻 Cybersecurity Courses and Certifications</h2>
 
   *  [GIAC Foundational Cybersecurity Technologies](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/) | <i> [Certificate](https://www.credly.com/badges/baf18ba1-acc1-4a9a-8de0-e92e626df1b0/public_url) </i>
-     *  Skills: Computer Hardware Fundamentals | Computer Logic | Computer Networking | Cyber Security Concepts | Exploitation Fundamentals | Forensics Fundamentals | Operating System | Fundamentals | Programming Fundamentals
-
-<h2> 📚 Classes </h2>
-
-  *  [SEC275: Foundations: Computers, Technology, and Security](https://www.sans.org/cyber-security-courses/foundations/) | <i> [Certificate](https://github.com/evanlin23/evanlin23/blob/e06293ee818cdb3d7e1f45c8ffb722861513d1f4/images/certificate.pdf) </i>
-
+     *  Topics: Computer Hardware Fundamentals | Computer Logic | Computer Networking | Cyber Security Concepts | Exploitation Fundamentals | Forensics Fundamentals | Operating System | Fundamentals | Programming Fundamentals
+ *  [SEC275: Foundations: Computers, Technology, and Security](https://www.sans.org/cyber-security-courses/foundations/) | <i> [Certificate](https://github.com/evanlin23/evanlin23/blob/e06293ee818cdb3d7e1f45c8ffb722861513d1f4/images/certificate.pdf) </i>
+     *  Topics: Computer Components & Concepts | Operating Systems, Containers, & Virtualization | Linux | Networking Fundamentals | Practical Programming in Python and C | Windows Foundations | Advanced Computer Hardware | Encryption | Forensics | Reconnaissance, Exploitation, and Privilege Escalation | Network & Computer Infiltration
+ 
 <h2> 🤳 Connect with me:</h2>
 
   *  [Linkedin](https://www.linkedin.com/in/evanlin366/)
