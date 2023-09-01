@@ -14,7 +14,7 @@
    
   *  [Video Project on Hilbert Spaces and Color Perception](https://www.youtube.com/watch?v=vtaNnV8bPyc)
 
-     *  Created animations using manim and edited project in iMovie
+     *  Created animations using manim, [a community maintained Python library for creating mathematical animations](https://www.manim.community/)
      *  Group members: Evan Lin, Alex Lin, Josh Song, Eric Tsui
 
 <h2> 👨‍💻 Cybersecurity Courses and Certifications</h2>
