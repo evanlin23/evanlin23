@@ -10,7 +10,7 @@
        
   *  [Index Maker for Textbooks](https://github.com/evanlin23/Index-Maker)
     
-     *  Used python to design a tool used to create a formatted index given a spreadsheet
+     *  Used python to design a tool used to create a formatted index for textbooks
    
   *  [Video Project on Hilbert Spaces and Color Perception](https://www.youtube.com/watch?v=vtaNnV8bPyc)
 
