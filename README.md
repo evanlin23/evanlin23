@@ -7,7 +7,7 @@
 
   *  [Archery Tracker Application](https://github.com/evanlin23/Archery-Tracker-App)
     
-     *  Used React Native to create a simple, lightweight application for tracking scores during archery practice
+     *  Using React Native to create a simple, lightweight application for tracking scores during archery practice
        
   *  [Computer Networking Practice Documentation](https://github.com/evanlin23/Cisco-Packet-Tracer)
     
