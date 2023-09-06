@@ -21,7 +21,7 @@
 
      *  Created animations using manim, [a community maintained Python library for creating mathematical animations](https://www.manim.community/)
      *  Group members: Evan Lin, Alex Lin, Josh Song, Eric Tsui
-     *  Animations by: Evan Lin, Alex Lin
+     *  Graphics by: Evan Lin, Alex Lin
      *  Edited by: Evan Lin
 
 <h2> 👨‍💻 Cybersecurity Courses and Certifications</h2>
