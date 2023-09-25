@@ -23,7 +23,9 @@
      *  Group members: Evan Lin, Alex Lin, Josh Song, Eric Tsui
      *  Graphics by: Evan Lin, Alex Lin
      *  Edited by: Evan Lin
-
+  *  [Mechmania AI Hackathon 3rd Place](https://github.com/lrhyde/mechmania)
+     *  Created a bot to play the human vs zombie games better than bots of other competitors
+    
 <h2> 👨‍💻 Cybersecurity Courses and Certifications</h2>
 
   *  [GIAC Foundational Cybersecurity Technologies (GFACT)](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/)
