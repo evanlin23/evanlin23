@@ -24,7 +24,7 @@
      *  Graphics by: Evan Lin, Alex Lin
      *  Edited by: Evan Lin
   *  [Mechmania AI Hackathon 3rd Place](https://github.com/lrhyde/mechmania)
-     *  Created a bot to play the human vs zombie games better than bots of other competitors
+     *  Created a bot to play a human vs zombie game against other bots
     
 <h2> 👨‍💻 Cybersecurity Courses and Certifications</h2>
 
