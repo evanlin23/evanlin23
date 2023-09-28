@@ -25,7 +25,6 @@
      *  Edited by: Evan Lin
   *  [Mechmania AI Hackathon 3rd Place](https://github.com/lrhyde/mechmania)
      *  Helped create a bot to play a human vs zombie game against other bots
-     *  Group members: Daniel Philipov, Akshay Vellore, Lauren Hyde
     
 <h2> 👨‍💻 Cybersecurity Courses and Certifications</h2>
 
