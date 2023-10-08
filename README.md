@@ -40,7 +40,6 @@
 
 <h2> 🏆 Awards and Honors </h2>
 
-  *  Mechmania Artificial Intelligence Hackathon 3rd Place | <i> Mechmania 29 </i>
   *  [National Cyber Scholar](https://www.nationalcyberscholarship.org/winners-2023) | <i> National Cyber Scholarship Foundation </i>
   *  [National Archery in the Schools Program Scholarship Winner](https://illinoisnasp.web.illinois.edu/2020/01/13/archery-scholarships-to-be-awarded-2023/) | <i> Illinois Conservation Foundation </i>
   *  [Two time AIME Qualifier](https://maa.org/math-competitions/american-invitational-mathematics-examination-aime) | <i> Mathematical Association of America </i>
