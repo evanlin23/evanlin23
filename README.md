@@ -42,6 +42,16 @@
 
   *  [Linkedin](https://www.linkedin.com/in/evanlin23/)
 
+
+<h2> 🏆 Awards and Honors </h2>
+
+  *  Mechmania Artificial Intelligence Hackathon 3rd Place | <i> Mechmania 29 </i>
+  *  [National Cyber Scholar](https://www.nationalcyberscholarship.org/winners-2023) | <i> National Cyber Scholarship Foundation </i>
+  *  [National Archery in the Schools Program Scholarship Winner](https://illinoisnasp.web.illinois.edu/2020/01/13/archery-scholarships-to-be-awarded-2023/) | <i> Illinois Conservation Foundation </i>
+  *  [Two time AIME Qualifier](https://maa.org/math-competitions/american-invitational-mathematics-examination-aime) | <i> Mathematical Association of America </i>
+  *  [CyberStart Gold Award](https://www.cyberstartamerica.org/) | <i> CyberStart America </i>
+
+
 <!--
 **evanlin23/evanlin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
