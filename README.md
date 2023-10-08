@@ -37,11 +37,6 @@
    | <i> [Certificate](https://github.com/evanlin23/evanlin23/blob/e06293ee818cdb3d7e1f45c8ffb722861513d1f4/images/certificate.pdf) </i>
      *  Earned access to course through the [CyberStart America](https://www.cyberstartamerica.org/) program
      *  Topics covered: Computer Components & Concepts | Operating Systems, Containers, & Virtualization | Linux | Networking Fundamentals | Practical Programming in Python and C | Windows Foundations | Advanced Computer Hardware | Encryption | Forensics | Reconnaissance, Exploitation, and Privilege Escalation | Network & Computer Infiltration
- 
-<h2> 🤳 Connect with me:</h2>
-
-  *  [Linkedin](https://www.linkedin.com/in/evanlin23/)
-
 
 <h2> 🏆 Awards and Honors </h2>
 
@@ -50,6 +45,11 @@
   *  [National Archery in the Schools Program Scholarship Winner](https://illinoisnasp.web.illinois.edu/2020/01/13/archery-scholarships-to-be-awarded-2023/) | <i> Illinois Conservation Foundation </i>
   *  [Two time AIME Qualifier](https://maa.org/math-competitions/american-invitational-mathematics-examination-aime) | <i> Mathematical Association of America </i>
   *  [CyberStart Gold Award](https://www.cyberstartamerica.org/) | <i> CyberStart America </i>
+
+ 
+<h2> 🤳 Connect with me:</h2>
+
+  *  [Linkedin](https://www.linkedin.com/in/evanlin23/)
 
 
 <!--
