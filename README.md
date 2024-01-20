@@ -12,10 +12,6 @@
   *  [Index Maker for Textbooks](https://github.com/evanlin23/Index-Maker)
     
      *  Used python to design a tool used to create formatted indexes for textbooks
-      
-  *  [Computer Networking Practice Documentation](https://github.com/evanlin23/Cisco-Packet-Tracer)
-
-     *  Using Cisco Packet Tracer to create and simulate computer networks
    
   *  [Hilbert Spaces and their Applications in Color Perception (video)](https://www.youtube.com/watch?v=vtaNnV8bPyc)
 
