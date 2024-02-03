@@ -47,7 +47,7 @@
 
   *  [Linkedin](https://www.linkedin.com/in/evanlin23/)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanlin23&hide=html&theme=tokyonight)
+ ![Top Langs](my-repo-git-main-evanlin23s-projects.vercel.app/api/top-langs/?username=evanlin23&hide=html&theme=tokyonight)
 
 <!--
 **evanlin23/evanlin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
