@@ -36,7 +36,7 @@
 
 <h2> 🏆 Awards and Honors </h2>
 
-  *  [Nationl Cyber Scholar with Honors](https://www.nationalcyberscholarship.org/scholars-with-honors-2023) | <i> National Cyber Scholarship Foundation </i>
+  *  Two time [National Cyber Scholar with Honors](https://www.nationalcyberscholarship.org/scholars-with-honors-2023) | <i> National Cyber Scholarship Foundation </i>
   *  [National Cyber Scholar](https://www.nationalcyberscholarship.org/winners-2023) | <i> National Cyber Scholarship Foundation </i>
   *  [National Archery in the Schools Program Scholarship Winner](https://illinoisnasp.web.illinois.edu/2020/01/13/archery-scholarships-to-be-awarded-2023/) | <i> Illinois Conservation Foundation </i>
   *  [Two time AIME Qualifier](https://maa.org/math-competitions/american-invitational-mathematics-examination-aime) | <i> Mathematical Association of America </i>
