@@ -31,11 +31,11 @@
 
  *  [SEC275: Foundations: Computers, Technology, and Security](https://www.sans.org/cyber-security-courses/foundations/)
    | <i> [Certificate](https://github.com/evanlin23/evanlin23/blob/e06293ee818cdb3d7e1f45c8ffb722861513d1f4/images/certificate.pdf) </i>
-     *  Earned $3,000 scholarship for access to course through the [CyberStart America](https://www.cyberstartamerica.org/) program
+     *  Earned $3,000 scholarship for access to the course through the [CyberStart America](https://www.cyberstartamerica.org/) program
      *  Topics covered: Computer Components & Concepts | Operating Systems, Containers, & Virtualization | Linux | Networking Fundamentals | Practical Programming in Python and C | Windows Foundations | Advanced Computer Hardware | Encryption | Forensics | Reconnaissance, Exploitation, and Privilege Escalation | Network & Computer Infiltration
  
  *  [SEC488: Cloud Security Essentials](https://www.sans.org/cyber-security-courses/cloud-security-essentials/)
-     *  Earned $10,000 scholarship for access to course through the [Cyber FastTrack](https://www.cyber-fasttrack.org/) program
+     *  Earned $10,000 scholarship for access to the course through the [Cyber FastTrack](https://www.cyber-fasttrack.org/) program
   
    
 <h2> 🏆 Awards and Honors </h2>
