@@ -1,6 +1,6 @@
 <h1>Hi, I'm Evan! <br/> </h1>
 
-<p> First-year student studying Computer Science at the University of Illinois Urbana-Champaign. Interested in cybersecurity with a focus on threat analysis and blue team, paired with a love for data analytics. </p>
+<p> I'm currently studying Computer Science at the University of Illinois Urbana-Champaign and I'm interested in cybersecurity with a focus on threat analysis and blue team.  </p>
 
 <h2> 🖥️ Projects </h2>
 
