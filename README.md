@@ -21,6 +21,12 @@
      *  Edited by: Evan Lin
   *  [Mechmania AI Hackathon 3rd Place](https://github.com/lrhyde/mechmania)
      *  Helped create a bot to play a human vs zombie game against other bots
+   
+  
+  *  [Lumberjack - HackIllinois Best Developer Tool](https://github.com/dch777/lumberjack)
+     *  Group members: Dhruv Chanana, James Yang
+     *  Tool for analyzing and identifying anomalies docker logs
+     *  Also monitors RAM and CPU usage
     
 <h2> 👨‍💻 Cybersecurity Courses and Certifications</h2>
 
