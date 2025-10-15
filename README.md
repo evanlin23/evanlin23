@@ -1,6 +1,6 @@
 <h1>Hi, I'm Evan! <br/> </h1>
 
-<p> I'm currently studying Computer Science at the University of Illinois Urbana-Champaign and I'm interested in cybersecurity with a focus on kernel hacking. </p>
+<p> I'm currently studying Computer Science at the University of Illinois Urbana-Champaign.
 
 <h2> 🖥️ Projects </h2>
 
