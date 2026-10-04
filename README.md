@@ -1,6 +1,6 @@
 ### Hi, I'm Evan
 
-M.CS. student at the University of Illinois Urbana-Champaign. Previously at Roblox and Amazon.
+CS @ UIUC | Prev @ Roblox, Amazon
 
 [Website](https://evanlin23.github.io) · [LinkedIn](https://www.linkedin.com/in/evanlin23/)
 
